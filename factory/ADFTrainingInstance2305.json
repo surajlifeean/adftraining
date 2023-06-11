@@ -1,0 +1,9 @@
+{
+	"name": "ADFTrainingInstance2305",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c4a9418c-a7c8-4721-bd01-2a3f5cd6d020",
+		"tenantId": "1560b854-5d53-497a-84f2-edff36edaaf5"
+	}
+}
